@@ -10,11 +10,20 @@ void draw(){
   fill(255,255,255);
   strokeWeight(3);
 
-  //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
+  //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here\
+
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
-  
+  fill(139,69,19);
+  rect(0, 376, 400, 400);
+  line(148, 190, 70, 125);
+  line(252, 190, 326, 133);
+  fill(255,140,0);
+  triangle(198, 119, 198, 128, 215, 124);
+  strokeWeight(5);
+  point(185,108);
+  point(215, 108);
 
 }
 
